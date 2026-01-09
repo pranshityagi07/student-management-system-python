@@ -10,6 +10,8 @@ A console-based Student Management System built using:
 - Delete student
 - View all students
 - Search by ID
+- Exception Handling
+- Input Validation
 
 ## How to Run
 ```bash
